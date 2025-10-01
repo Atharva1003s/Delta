@@ -1,2 +1,2 @@
 # Delta
-Addding new reops
+Addding new repository
